@@ -11,3 +11,5 @@ RUN update-rc.d rsyslog defaults
 RUN update-rc.d ssh defaults
 RUN update-rc.d rsyslog enable
 RUN update-rc.d ssh enable
+
+# flag{curiosity_killed_the_crew}
